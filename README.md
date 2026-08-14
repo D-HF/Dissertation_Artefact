@@ -1,0 +1,2 @@
+Code is currently a very close version to Youtuber _Game Dev Garnet's_ code as seen in his video '_Easy City Generator Tutorial for Unity!_ found at (https://www.youtube.com/watch?v=iJ_GnGD5BZA), posted on December 1st 2023.
+Intended to be the basis for which the Hierarchal Wave Function Collapse system was based, unable to get hierarchal structure to work so is currently his code with minor revisions to account for the types of tiles/structures in the scene
